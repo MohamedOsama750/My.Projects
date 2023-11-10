@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699615102 source:d:\ahmed\codeblocks\cyberrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
